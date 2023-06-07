@@ -1,0 +1,132 @@
+{
+  "__class__": "Lista",
+  "agentes":
+  [
+    {
+      "__class__": "Docente",
+      "__atributos__": {
+        "cuil": "28-111111111",
+        "apellido": "Garcia",
+        "nombre": "Maria",
+        "sueldobasico": 50000,
+        "antiguedad": 7,
+        "carrera": "Licenciatura en Informatica",
+        "cargo": "Semiexclusivo",
+        "catedra": "Programacion Avanzada"
+      }
+    },
+
+    {
+      "__class__":"Investigador",
+      "__atributos__": {
+        "cuil": "28-222222222",
+        "apellido": "Lopez",
+        "nombre": "Juan",
+        "sueldobasico": 60000,
+        "antiguedad": 10,
+        "areainvestigacion": "Inteligencia Artificial",
+        "tipoinvestigacion": "Investigacion Aplicada"
+      }
+    },
+    {
+      "__class__":"DocenteInvestigador",
+      "__atributos__": {
+        "cuil": "28-333333333",
+        "apellido": "Perez",
+        "nombre": "Carlos",
+        "sueldobasico": 55000,
+        "antiguedad": 8,
+        "carrera": "Licenciatura en Quimica",
+        "cargo": "Exclusivo",
+        "catedra": "Quimica Organica",
+        "areainvestigacion": "Quimica Organica",
+        "tipoinvestigacion": "Investigacion Basica",
+        "categoriainvestigacion": "II",
+        "importeextra": 10000
+      }
+    },
+    {
+      "__class__":"PersonalApoyo",
+      "__atributos__": {
+        "cuil": "28-444444444",
+        "apellido": "Rodriguez",
+        "nombre": "Luis",
+        "sueldobasico": 40000,
+        "antiguedad": 5,
+        "categoria": 21
+      }
+    },
+    {
+      "__class__":"Docente",
+      "__atributos__": {
+        "cuil": "28-555555555",
+        "apellido": "Fernandez",
+        "nombre": "Ana",
+        "sueldobasico": 45000,
+        "antiguedad": 6,
+        "carrera": "Licenciatura en Historia",
+        "cargo": "Simple",
+        "catedra": "Historia del Arte"
+      }
+    },
+    {
+      "__class__":"Investigador",
+      "__atributos__": {
+        "cuil": "28-666666666",
+        "apellido": "Martinez",
+        "nombre": "Pedro",
+        "sueldobasico": 55000,
+        "antiguedad": 9,
+        "areainvestigacion": "Biologia Molecular",
+        "tipoinvestigacion": "Investigacion Experimental"
+      }
+    },
+    {
+      "__class__":"DocenteInvestigador",
+      "__atributos__": {
+        "cuil": "28-777777777",
+        "apellido": "Lopez",
+        "nombre": "Laura",
+        "sueldobasico": 60000,
+        "antiguedad": 7,
+        "carrera": "Licenciatura en Fisica",
+        "cargo": "Semiexclusivo",
+        "catedra": "Fisica Cuantica",
+        "areainvestigacion": "Fisica Teorica",
+        "tipoinvestigacion": "Investigacion Basica",
+        "categoriainvestigacion": "III",
+        "importeextra": 120
+      }
+    },
+
+    {
+      "__class__":"DocenteInvestigador",
+      "__atributos__": {
+        "cuil": "28-888888888",
+        "apellido": "Ortega",
+        "nombre": "Ana Maria",
+        "sueldobasico": 70000,
+        "antiguedad": 8,
+        "carrera": "Licenciatura en Fisica",
+        "cargo": "Semiexclusivo",
+        "catedra": "Fisica Cuantica",
+        "areainvestigacion": "Fisica Teorica",
+        "tipoinvestigacion": "Investigacion Basica",
+        "categoriainvestigacion": "III",
+        "importeextra": 120
+      }
+    },
+    {
+      "__class__":"Investigador",
+      "__atributos__": {
+        "cuil": "28-999999999",
+        "apellido": "Gimenez",
+        "nombre": "Gonzalo",
+        "sueldobasico": 60000,
+        "antiguedad": 7,
+        "areainvestigacion": "Fisica Teorica",
+        "tipoinvestigacion": "Investigacion Aplicada"
+      }
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+[
+    {
+        "tipo": "investigador",
+        "cuil": "999999999",
+        "apellido": "Gimenez",
+        "nombre": "Gonzalo",
+        "sueldobasico": 60000.0,
+        "antiguedad": 7.0,
+        "areainvestigacion": "Fisica Teorica",
+        "tipoinvestigacion": "Investigacion Aplicada"
+    },
+    {
+        "tipo": "docenteinvestigador",
+        "cuil": "888888888",
+        "apellido": "Ortega",
+        "nombre": "Ana Maria",
+        "sueldobasico": 70000.0,
+        "antiguedad": 8.0,
+        "carrera": "Licenciatura en Fisica",
+        "cargo": "Semiexclusivo",
+        "catedra": "Fisica Cuantica",
+        "areainvestigacion": "Fisica Teorica",
+        "tipoinvestigacion": "Investigacion Basica",
+        "categoria": "III",
+        "importeextra": 120.0
+    },
+    {
+        "tipo": "docenteinvestigador",
+        "cuil": "777777777",
+        "apellido": "Lopez",
+        "nombre": "Laura",
+        "sueldobasico": 60000.0,
+        "antiguedad": 7.0,
+        "carrera": "Licenciatura en Fisica",
+        "cargo": "Semiexclusivo",
+        "catedra": "Fisica Cuantica",
+        "areainvestigacion": "Fisica Teorica",
+        "tipoinvestigacion": "Investigacion Basica",
+        "categoria": "III",
+        "importeextra": 120.0
+    },
+    {
+        "tipo": "investigador",
+        "cuil": "666666666",
+        "apellido": "Martinez",
+        "nombre": "Pedro",
+        "sueldobasico": 55000.0,
+        "antiguedad": 9.0,
+        "areainvestigacion": "Biologia Molecular",
+        "tipoinvestigacion": "Investigacion Experimental"
+    },
+    {
+        "tipo": "docente",
+        "cuil": "555555555",
+        "apellido": "Fernandez",
+        "nombre": "Ana",
+        "sueldobasico": 45000.0,
+        "antiguedad": 6.0,
+        "carrera": "Licenciatura en Historia",
+        "cargo": "Simple",
+        "catedra": "Historia del Arte"
+    },
+    {
+        "tipo": "personalapoyo",
+        "cuil": "444444444",
+        "apellido": "Rodriguez",
+        "nombre": "Luis",
+        "sueldobasico": 40000.0,
+        "antiguedad": 5.0,
+        "categoria": 21
+    },
+    {
+        "tipo": "docenteinvestigador",
+        "cuil": "333333333",
+        "apellido": "Perez",
+        "nombre": "Carlos",
+        "sueldobasico": 55000.0,
+        "antiguedad": 8.0,
+        "carrera": "Licenciatura en Quimica",
+        "cargo": "Exclusivo",
+        "catedra": "Quimica Organica",
+        "areainvestigacion": "Quimica Organica",
+        "tipoinvestigacion": "Investigacion Basica",
+        "categoria": "II",
+        "importeextra": 10000.0
+    },
+    {
+        "tipo": "investigador",
+        "cuil": "222222222",
+        "apellido": "Lopez",
+        "nombre": "Juan",
+        "sueldobasico": 60000.0,
+        "antiguedad": 10.0,
+        "areainvestigacion": "Inteligencia Artificial",
+        "tipoinvestigacion": "Investigacion Aplicada"
+    },
+    {
+        "tipo": "docente",
+        "cuil": "111111111",
+        "apellido": "Garcia",
+        "nombre": "Maria",
+        "sueldobasico": 50000.0,
+        "antiguedad": 7.0,
+        "carrera": "Licenciatura en Informatica",
+        "cargo": "Semiexclusivo",
+        "catedra": "Programacion Avanzada"
+    }
+]
